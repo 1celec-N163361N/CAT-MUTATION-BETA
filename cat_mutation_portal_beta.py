@@ -1,17 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-CAT Mutation Portal - Professional Edition
-==========================================
 
-Authorized Penetration Testing Tool
-Production-ready HTTP Request Mutator + Response Diff Analyzer
-
-Deployment: python3 cat_mutation_portal.py
-Access:    http://127.0.0.1:5050
-
-Requirements: pip install requests
-"""
 
 from __future__ import annotations
 
@@ -1116,3 +1105,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
